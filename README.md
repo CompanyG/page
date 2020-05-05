@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Neaty HTML Web Template</title>
+    <title>Мой первый сайт!</title>
 <!--
 Neaty HTML Template
 http://www.templatemo.com/tm-501-neaty
@@ -69,7 +69,7 @@ http://www.templatemo.com/tm-501-neaty
                                 <header>
                                     <h2 class="tm-blue-text tm-welcome-title tm-margin-b-45">Welcome to Neaty Design</h2>
                                 </header>
-                                <p>Neaty is simple and clean design HTML CSS template for any kind of website. Feel free to use this layout. Please tell your friends about templatemo website. Thank you. Suspendisse imperdiet, felis eu hendrerit pretium, sapien mauris blandit arcu, et accumsan neque est ut erat. Vivamus eget tellus euismod, interdum nibh at, eleifend justo. Quisque placerat ante in ex tempor, ultrices bibendum nunc finibus. Etiam luctus nec eros vel pulvinar.</p>
+                                <p>Тут будет очень важная информация! Neaty is simple and clean design HTML CSS template for any kind of website. Feel free to use this layout. Please tell your friends about templatemo website. Thank you. Suspendisse imperdiet, felis eu hendrerit pretium, sapien mauris blandit arcu, et accumsan neque est ut erat. Vivamus eget tellus euismod, interdum nibh at, eleifend justo. Quisque placerat ante in ex tempor, ultrices bibendum nunc finibus. Etiam luctus nec eros vel pulvinar.</p>
                             </section>
                             <!-- About section -->
                             <section id="about" class="tm-section">
